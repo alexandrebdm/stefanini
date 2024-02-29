@@ -1,0 +1,4 @@
+1 - trocar string de conecxão no appsettings.jason
+2 - no PowerShell excecutar no diretório Stefanini.Data seguinte comando:
+	dotnet ef --startup-project ..\Stefanini.api\ database update
+
